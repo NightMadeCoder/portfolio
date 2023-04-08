@@ -79,7 +79,7 @@ const Mail = () => {
       }
     }
   }, [toSend.subject])
-
+  
   return (
     <div className='mail' id='mail'>
       <h2>Get In Touch</h2>
