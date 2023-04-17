@@ -44,7 +44,7 @@
 .nav ul li:hover,
 .nav ul li:active {
 	cursor: pointer;
-	border-image-source: linear-gradient(to right, #6253e8, #1da1f2);
+	border-image-source: linear-gradient(to right, #453f79, #207f96);
 }
 
 .menu-and-theme{
@@ -62,7 +62,7 @@
 }
 
 .theme-switch > svg{
-	color: #fff;
+	color: #f8f9fa;
 	width: 1.2rem;
 	height: 1.2rem;
 	transition: all 1s;
@@ -102,8 +102,8 @@
 	}
 
 	.light .small{
-		background-color: #1da1f2;
-		color: #fff;
+		background-color: #127cbe;
+		color: #14a7cc;
 	}
 
 	.small > ul {

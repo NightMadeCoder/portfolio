@@ -9,7 +9,7 @@ import { Link } from 'react-scroll';
 
 const Home = () => {
   const [number, setNumber] = useState(0);
-  const arrayOfWords = ['Tap again', 'Helllo', 'You found this', 'I added this...', 'because it seemed cool', `so here's something`, 'did you know that...', `You can't breathe and talk.`, 'the earth is 71% water.', `It snows in the Sahara Desert
+  const arrayOfWords = ['Tap again', 'Hello', 'Welcome to my portfolio', 'I added this...', 'because it seemed cool', `so here's something`, 'im a ', `Software Engineer.`, 'With 3years of experience.', `can't wait to work you!
 `,]
   const textContent = useRef();
   const handleDownload = () => {
@@ -41,7 +41,7 @@ const Home = () => {
       <div className="home-text">
         <h1>
           <span className='gradientText'>
-            Hi, I'm jay!
+            Hi, I'm Jay!
           </span>
           <span>
             <span onClick={handleChange}>
@@ -55,8 +55,9 @@ const Home = () => {
         <TypeWriterEffect
           cursorColor="#1da1f2"
           multiText={[
-            'Web Developer',
-            "I always get the job done"
+            'Software Engineer',
+            "tap the Hi emoji to say hey back!"
+
           ]}
           multiTextLoop={true}
           multiTextDelay={1500}

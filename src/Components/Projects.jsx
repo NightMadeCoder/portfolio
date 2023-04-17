@@ -5,19 +5,19 @@ import '../styles/Projects.css';
 const Projects = () => {
   const projectsInfo = {
     one: {
-      name: 'Project 1',
-      desc: 'congue quisque egestas diam in arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat sed',
-      liveLink: 'website url',
-      githubLink: 'https://github.com/',
-      techs: ['HTML', 'CSS', 'TypeScript'],
+      name: 'Playtimes',
+      desc: 'playtimes is a website that has updated news on games & thier specs and where to purchase them around you ',
+      liveLink: 'https://playtimes.netlify.app',
+      githubLink: 'https://github.com/jallalludeen/playtimes.git',
+      techs: ['HTML', 'CSS', 'JAVASCRIPT'],
       isOpenSource: true
     },
     two: {
-      name: 'Project 2',
-      desc: 'congue quisque egestas diam in arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat sed',
-      liveLink: 'website url',
-      githubLink: 'https://github.com/',
-      techs: ['React', 'Node', 'MongoDB', 'Socket.io', 'Redux'],
+      name: 'Demo portfolio',
+      desc: 'This is  my First portfolio',
+      liveLink: 'https://jaysdemoportfolio.netlify.app',
+      githubLink: 'https://github.com/jallalludeen/demo-portfolio01.git',
+      techs: ['HTML5', 'CSS3', 'JAVASCRIPT',],
       isOpenSource: true
     }
   }

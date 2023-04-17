@@ -7,7 +7,7 @@ import '../styles/Socials.css';
 const Socials = () => {
   return (
     <div className='socials'>
-      <h2>Find Me @ The Web</h2>
+      <h2>Find Me @ Socials</h2>
       <div className="social">
         <div className='insta'>
           <AiFillInstagram />

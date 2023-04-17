@@ -15,9 +15,9 @@ const About = () => {
   }
   return (
     <div className='about' id="about">
-      <h2>Get To Know Me</h2>
+      <h2>know about me</h2>
       <div className="words">
-      Hello, I’m [Jay], I started my coding journey almost exactly a year ago and now I'm working full time and doing freelance projects on the side for my friends and I’m passionate about everything that goes into making websites work well and look beautiful. The web is my passion because it’s where I can find the most exciting projects to work on. It’s also where I get to express my creativity in ways that are hard to find elsewhere. I love working with clients who want something more than just another website; they want their site to be more than just another website. They want it to be memorable, engaging, and valuable—and that’s where I come in!
+      Hello, I’m [Jay], I started my coding journey about 3 years ago and now I'm working full time and doing freelance projects on the side for my friends and I’m passionate about everything that goes into making websites work well and look good. The web is my passion because it’s where I can find the most exciting projects to work on. It’s also where I get to express my creativity in ways that are hard to find elsewhere. I love working with clients who want something more than just another website; they want their site to be more than just another website. They want it to be memorable, engaging, and valuable—and that’s where I come in!
       </div>
     </div>
   )
